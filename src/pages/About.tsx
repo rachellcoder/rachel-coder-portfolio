@@ -9,7 +9,7 @@ const About = () => {
           
           <Card className="mb-8">
             <CardHeader>
-              <CardTitle>Hello, I'm a Developer</CardTitle>
+              <CardTitle>Hello, I'm Rachel Coder</CardTitle>
               <CardDescription>Passionate about creating amazing digital experiences</CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">

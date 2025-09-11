@@ -14,10 +14,10 @@ const Navigation = () => {
   return (
     <nav className="border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50">
       <div className="container flex h-16 items-center justify-between">
-        <Link to="/" className="font-bold text-xl">
+        <Link to="/" className=" text-xl uppercase">
           Portfolio
         </Link>
-        <div className="flex gap-2">
+        <div className="flex gap-2 uppercase">
           {navItems.map((item) => (
             <Button
               key={item.path}
