@@ -7,14 +7,14 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
-      <section className="py-20 background">
+      <section className="py-40 background">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
               Hi, I'm <span className="text-primary">Rachel Coder</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
-              A passionate developer creating beautiful and functional web experiences
+              A passionate developer creating beautiful and functional web experiences.
             </p>
             <div className="flex gap-4 justify-center">
               <Button asChild size="lg">
