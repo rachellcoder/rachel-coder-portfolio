@@ -10,10 +10,10 @@ const Index = () => {
       <section className="py-40 background">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-5xl font-bold mb-6">
-              Hi, I'm <span className="text-primary">Rachel Coder</span>
+            <h1 className="text-5xl font-bold mb-6 text-white">
+              Hi, I'm <span className="text-primary text-white">Rachel Coder</span>
             </h1>
-            <p className="text-xl text-muted-foreground mb-8">
+            <p className="text-xl text-white mb-8">
               A passionate developer creating beautiful and functional web experiences.
             </p>
             <div className="flex gap-4 justify-center">
