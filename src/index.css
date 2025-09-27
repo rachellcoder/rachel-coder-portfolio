@@ -24,7 +24,7 @@ All colors MUST be HSL.
     --secondary-foreground: 11 47.4% 11.2%;
 
     --muted: 210 40% 96.1%;
-    --muted-foreground: #ffffffff;
+    --muted-foreground: 215.4 16.3% 46.9%;
 
     --accent: 210 40% 96.1%;
     --accent-foreground: 11 47.4% 11.2%;
@@ -62,6 +62,7 @@ All colors MUST be HSL.
     height: auto;
     background-color: #bcffd0ff;
   }
+
   .dark {
     --background: 11 84% 4.9%;
     --foreground: 210 40% 98%;
