@@ -59,15 +59,15 @@ const Contact = () => {
                 <CardContent className="space-y-4">
                   <div className="flex items-center gap-3">
                     <Mail className="w-5 h-5 text-muted-foreground" />
-                    <span>hello@example.com</span>
+                    <span>rachiecoder@outlook.com</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <Phone className="w-5 h-5 text-muted-foreground" />
-                    <span>+1 (555) 123-4567</span>
+                    <span>360-200-9251</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <MapPin className="w-5 h-5 text-muted-foreground" />
-                    <span>San Francisco, CA</span>
+                    <span>Portland, OR</span>
                   </div>
                 </CardContent>
               </Card>
@@ -78,13 +78,13 @@ const Contact = () => {
                 </CardHeader>
                 <CardContent className="space-y-3">
                   <Button variant="outline" className="w-full justify-start" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/rachellcoder" target="_blank" rel="noopener noreferrer">
                       <Github className="w-4 h-4 mr-2" />
                       GitHub
                     </a>
                   </Button>
                   <Button variant="outline" className="w-full justify-start" asChild>
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/rachel-coder-224715342/" target="_blank" rel="noopener noreferrer">
                       <Linkedin className="w-4 h-4 mr-2" />
                       LinkedIn
                     </a>

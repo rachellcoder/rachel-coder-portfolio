@@ -36,6 +36,9 @@ const About = () => {
                 <div className="p-3 bg-muted rounded-lg text-center">Node.js</div>
                 <div className="p-3 bg-muted rounded-lg text-center">Tailwind CSS</div>
                 <div className="p-3 bg-muted rounded-lg text-center">Git</div>
+                <div className="p-3 bg-muted rounded-lg text-center">Next.js</div>
+                <div className="p-3 bg-muted rounded-lg text-center">Python</div>
+                <div className="p-3 bg-muted rounded-lg text-center">SQL</div>
               </div>
             </CardContent>
           </Card>

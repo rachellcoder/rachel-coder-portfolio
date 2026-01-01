@@ -5,18 +5,18 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "E-commerce Platform",
-      description: "A full-stack e-commerce solution built with React and Node.js",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      liveUrl: "#",
-      githubUrl: "#",
+      title: "Blog Website",
+      description: "A full-stack Blog built with Next.js, Typescript and Node.js",
+      technologies: ["React", "Node.js", "Typescript", "Sanity", "Tailwind"],
+      liveUrl: "https://github.com/rachellcoder/myblog",
+      githubUrl: "https://github.com/rachellcoder/myblog",
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates",
+      title: "Side Quest",
+      description: "A react native mobile application that generates random ideas",
       technologies: ["React", "TypeScript", "Socket.io", "PostgreSQL"],
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://github.com/rachellcoder/side-quest",
+      githubUrl: "https://github.com/rachellcoder/side-quest",
     },
     {
       title: "Weather Dashboard",
