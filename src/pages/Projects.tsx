@@ -21,9 +21,9 @@ const Projects = () => {
     {
       title: "Weather Dashboard",
       description: "A responsive weather dashboard with location-based forecasts",
-      technologies: ["React", "API Integration", "Tailwind CSS"],
-      liveUrl: "#",
-      githubUrl: "#",
+      technologies: ["Python", "Flask", "API Integration", "CSS", "HTML"],
+      liveUrl: "https://weather-app-e6it.onrender.com/",
+      githubUrl: "https://github.com/rachellcoder/weather-app",
     },
   ];
 
